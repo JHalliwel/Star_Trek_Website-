@@ -2,7 +2,7 @@
 
 Webpage that gives you the spieces from the Star Trek Universe.
 
-Link for Front End Project: jhalliwel.github.io/Star_Trek_Website/index.html
+Link for Front End Project: jhalliwel.github.io/Star_Trek_Website-/index.html
 
 Link for API Hosted Heroku: https://api-project001.herokuapp.com/api/
 
